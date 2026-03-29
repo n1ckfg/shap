@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 SHAP (SHapley Additive exPlanations) is a Python library for explaining machine learning model predictions using game-theoretic Shapley values. It provides model-agnostic and model-specific explainers for various ML frameworks.
